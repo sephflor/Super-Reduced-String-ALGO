@@ -1,1 +1,1 @@
-# Super-Reduced-String-ALGO
+# Super-Reduced-String-ALGO.This program repeatedly removes pairs of adjacent identical characters from a string using a stack until none remain, then prints the reduced string—or "Empty String" if all characters are removed.
